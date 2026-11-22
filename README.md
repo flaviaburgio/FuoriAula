@@ -8,7 +8,7 @@
 
 ## Descrizione
 
-**Fuori Aula** è un progetto di marketing e comunicazione digitale realizzato nell'ambito del Seminario "Marketing Digitale Strategico: dall'analisi all'azione nell'era dell'AI" tenuto da Zeno Web.
+**Fuori Aula** è un progetto di marketing e comunicazione digitale realizzato nell'ambito del Seminario "Marketing Digitale Strategico: dall'analisi all'azione nell'era dell'AI" tenuto da Zeno Web presso l'Università degli studi di Catania.
 
 Questo repository contiene il documento di strategia (`Fuori_Aula.pdf`), che copre analisi di mercato, concorrenza, posizionamento, brand identity, canali, funnel e piano media.
 
